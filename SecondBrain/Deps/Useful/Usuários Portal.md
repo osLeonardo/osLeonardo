@@ -56,3 +56,9 @@
 >	Cliente Spilere:
 >	login: gestor@spilere.com
 >	senha: AAaa@129
+---
+>Administrador Parceiro:
+>
+>	Parceiro Spilere:
+>	login: adm@parceiro.com
+>	senha: AAaa@129
