@@ -1,1 +1,0 @@
-https://metarecursivo.github.io/sekiro/index

@@ -1,2 +1,0 @@
-- [[Refactoring Code]]
-- [[SOLID Principles]]

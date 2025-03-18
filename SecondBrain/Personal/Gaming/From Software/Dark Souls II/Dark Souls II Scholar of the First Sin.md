@@ -1,1 +1,0 @@
-https://smcnabb.github.io/dark-souls-2-cheat-sheet/
